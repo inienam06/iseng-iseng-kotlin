@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iseng Iseng Kotlin</string>
+    <string name="mohon_tunggu">Mohon Tunggu ...</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="action_search">Cari</string>
+    <string name="search">Cari Sesuatu</string>
+</resources>
